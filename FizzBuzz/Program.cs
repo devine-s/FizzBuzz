@@ -18,6 +18,7 @@ namespace FizzBuzz
             {
                 Stage2(index);
             }
+            //test comment
         }
 
         private static void Stage1(int index)
